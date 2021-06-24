@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.thetbw.springjumptemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.thetbw.springjumptemplate.MyBundle
 
 class MyApplicationService {
 
